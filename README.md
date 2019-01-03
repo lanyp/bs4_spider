@@ -1,0 +1,1 @@
+BueautifulSoup的基本用法以及利用BueautifulSoup爬取巴比特社区的demo
